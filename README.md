@@ -1,6 +1,4 @@
-# IPL_Analytics_Excel_Project
-
-IPL Analytics Dashboard | Microsoft Excel | Excel BI Dashboard
+# IPL Analytics Dashboard | Microsoft Excel | Excel BI Dashboard
 
 Objective: To analyze IPL team performance, toss impact, and player dominance across 11 seasons (2008-2018) using Excel-based analytics and visualization tools.
 
